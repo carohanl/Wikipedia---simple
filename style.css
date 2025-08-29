@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+P {
+   color: black;  
+}
+h1 {
+    font-weight: bold;
+}
+img {
+    float: right;
+    height: 300px;
+    border: 5px solid;
+}
+div {
+     height: 200px;
+     border-radius: 2px;
+     display: block;
+     border: 2px solid;
+     margin:400px;
+     background-color: aqua;
+}
